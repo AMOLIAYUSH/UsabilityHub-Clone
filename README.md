@@ -1,0 +1,1 @@
+Hi there, This is a cloned website of Usability.com. I've created this using HTML and CSS only. I'll push a new update for this website, improving it's functionality, adding media queries and a JavaScript file. 
